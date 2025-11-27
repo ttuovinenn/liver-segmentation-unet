@@ -1,0 +1,73 @@
+Epoch 1/20
+Train Loss: 0.5119 | Val Loss: 0.4513 | Val mIoU: 0.7764 | Val mPA: 0.9818
+Saved best model
+
+Epoch 2/20
+Train Loss: 0.4113 | Val Loss: 0.4022 | Val mIoU: 0.8640 | Val mPA: 0.9887
+Saved best model
+
+Epoch 3/20
+Train Loss: 0.3847 | Val Loss: 0.3769 | Val mIoU: 0.8733 | Val mPA: 0.9896
+Saved best model
+
+Epoch 4/20
+Train Loss: 0.3596 | Val Loss: 0.3569 | Val mIoU: 0.9090 | Val mPA: 0.9924
+Saved best model
+
+Epoch 5/20
+Train Loss: 0.3394 | Val Loss: 0.3333 | Val mIoU: 0.9289 | Val mPA: 0.9940
+Saved best model
+
+Epoch 6/20
+Train Loss: 0.3165 | Val Loss: 0.3117 | Val mIoU: 0.9172 | Val mPA: 0.9934
+
+Epoch 7/20
+Train Loss: 0.2973 | Val Loss: 0.2956 | Val mIoU: 0.9111 | Val mPA: 0.9934
+
+Epoch 8/20
+Train Loss: 0.2787 | Val Loss: 0.2735 | Val mIoU: 0.9443 | Val mPA: 0.9956
+Saved best model
+
+Epoch 9/20
+Train Loss: 0.2611 | Val Loss: 0.2567 | Val mIoU: 0.9422 | Val mPA: 0.9953
+
+Epoch 10/20
+Train Loss: 0.2444 | Val Loss: 0.2422 | Val mIoU: 0.9495 | Val mPA: 0.9960
+Saved best model
+
+Epoch 11/20
+Train Loss: 0.2284 | Val Loss: 0.2235 | Val mIoU: 0.9449 | Val mPA: 0.9955
+
+Epoch 12/20
+Train Loss: 0.2182 | Val Loss: 0.2656 | Val mIoU: 0.7587 | Val mPA: 0.9854
+
+Epoch 13/20
+Train Loss: 0.2074 | Val Loss: 0.2237 | Val mIoU: 0.8699 | Val mPA: 0.9893
+
+Epoch 14/20
+Train Loss: 0.1892 | Val Loss: 0.1864 | Val mIoU: 0.9560 | Val mPA: 0.9965
+Saved best model
+
+Epoch 15/20
+Train Loss: 0.1746 | Val Loss: 0.1697 | Val mIoU: 0.9619 | Val mPA: 0.9970
+Saved best model
+
+Epoch 16/20
+Train Loss: 0.1618 | Val Loss: 0.1659 | Val mIoU: 0.9622 | Val mPA: 0.9971
+Saved best model
+
+Epoch 17/20
+Train Loss: 0.1506 | Val Loss: 0.1504 | Val mIoU: 0.9636 | Val mPA: 0.9972
+Saved best model
+
+Epoch 18/20
+Train Loss: 0.1396 | Val Loss: 0.1384 | Val mIoU: 0.9619 | Val mPA: 0.9971
+
+Epoch 19/20
+Train Loss: 0.1300 | Val Loss: 0.1301 | Val mIoU: 0.9632 | Val mPA: 0.9971
+
+Epoch 20/20
+Train Loss: 0.1221 | Val Loss: 0.1204 | Val mIoU: 0.9575 | Val mPA: 0.9967
+
+Final evaluation on validation set:
+Final Val Loss: 0.1204 | Val mIoU: 0.9575 | Val mPA: 0.9967
