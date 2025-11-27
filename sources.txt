@@ -1,0 +1,11 @@
+References to literature or external sources:
+Everingham, M., Van Gool, L., Williams, C. K. I., Winn, J., & Zisserman, A. (2010). The Pascal Visual Object Classes (VOC) Challenge. International Journal of Computer Vision, 88(2), 303–338. https://doi.org/10.1007/s11263-009-0275-4 
+Litjens, G., Kooi, T., Bejnordi, B. E., Setio, A. A. A., Ciompi, F., Ghafoorian, M., van der Laak, J. A. W. M., van Ginneken, B., & Sánchez, C. I. (2017). A survey on deep learning in medical image analysis. Medical Image Analysis, 42, 60–88. https://doi.org/10.1016/j.media.2017.07.005 
+Milletari, F., Navab, N., & Ahmadi, S.-A. (2016). V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation. 3DV 2016 : Proceedings, 2016 Fourth International Conference on 3D Vision : 25-28 October 2016, Stanford, California, USA, Article 7785132. https://doi.org/10.1109/3DV.2016.79 
+Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. In W. M. Wells, A. F. Frangi, N. Navab, & J. Hornegger (Eds.), Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015 (Vol. 9351, pp. 234–241). Springer International Publishing AG. https://doi.org/10.1007/978-3-319-24574-4_28 
+Simon, M., Rodner, E., & Denzler, J. (2016). ImageNet pre-trained models with batch normalization. https://doi.org/10.48550/arxiv.1612.01452 
+Wang, J., Zhu, H., Wang, S.-H., & Zhang, Y.-D. (2021). A Review of Deep Learning on Medical Image Analysis. Mobile Networks and Applications, 26(1), 351–380. https://doi.org/10.1007/s11036-020-01672-7 
+PyTorch Documentation: https://pytorch.org/docs/stable/index.html 
+Implementation of dice loss — vision — PyTorch. https://medium.com/data-scientists-diary/implementation-of-dice-loss-vision-pytorch-7eef1e438f68 
+A PyTorch U-Net implementation. Github repository. https://github.com/milesial/Pytorch-UNet 
+Segmentation utility libraries. Github repository. https://github.com/qubvel-org/segmentation_models.pytorch 
